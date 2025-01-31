@@ -1,0 +1,11 @@
+bad_html,correct_html
+<p>Unclosed paragraph,<p>Unclosed paragraph</p>
+<html><title>Title1</title><title>Title2</title></html>,<html><head><title>Title1</title></head></html>
+<b><i>Text</b></i>,<b><i>Text</i></b>
+"<img src=""C:\Users\vkr20\OneDrive\Pictures\Saved Pictures\ABCD.jpg"">","<img src=""file:///C:\Users\vkr20\OneDrive\Pictures\Saved Pictures\ABCD.jpg"" alt=""Image"">"
+"<p style=""color:red;"">Hello</p>","<p class=""red-text"">Hello</p>"
+"<font size=""3"">Hello</font>","<span style=""font-size: 14px;"">Hello</span>"
+"<div align=""center"">Centered text</div>","<div style=""text-align:center;"">Centered text</div>"
+"<a href=""#"">Click</a>","<a href=""https://example.com"">Click</a>"
+<html><body>Content...,<!DOCTYPE html><html><body>Content...</body></html>
+<!DOCTYPE>,<!DOCTYPE html>
