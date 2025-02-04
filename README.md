@@ -1,2 +1,2 @@
 # HTML-Auto-Corrector
- HTML Auto-Corrector in Action
+HTML Auto-Corrector in Action
