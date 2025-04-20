@@ -1,4 +1,4 @@
-#HTML-Auto-Corrector
+# `HTML-Auto-Corrector`
 flask
 streamlit
 scikit-learn
