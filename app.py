@@ -4,7 +4,6 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
-
 # Function to load model and vectorizer safely
 @st.cache_resource
 def load_model():
